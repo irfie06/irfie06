@@ -32,9 +32,9 @@ I am a Business Data Analytics student at COMSATS University Islamabad, developi
 
 ## Repositories
 
-My repositories are currently being set up. The [Python Practice](https://github.com/irfie06/python-practice) repository is a private learning space and does not yet contain published code projects.
+The [Python Practice](https://github.com/irfie06/python-practice) repository contains three beginner Python examples: a calculator, a student grade tracker, and an expense tracker. These are learning examples, not production projects.
 
-I will add documented work as projects are completed.
+The repository is currently private, so visitors without access may not be able to view its files. I plan to build and document more projects as I learn.
 
 ---
 
