@@ -1,59 +1,45 @@
 <div align="center">
 
-# Hi, I'm Irfan Hussain 👋
+# Irfan Hussain
 
-### Business Data Analytics Student | Python & SQL Learner
+**Business Data Analytics Student | Python & SQL Learner**
 
-**Learning to turn data, code, and business ideas into practical solutions.**
-
-📍 Islamabad, Pakistan · 🎓 COMSATS University Islamabad
+COMSATS University Islamabad | Islamabad, Pakistan
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Business Data Analytics student at **COMSATS University Islamabad**, developing my skills in programming, databases, and analytical thinking. I enjoy learning through hands-on exercises and improving a little with every project.
+I am a Business Data Analytics student at COMSATS University Islamabad, developing my foundation in programming, databases, and analytical problem-solving. I am particularly interested in applying technology and data to business challenges.
 
-- 🐍 Currently practicing **Python** programming
-- 🗃️ Learning **SQL** and database fundamentals
-- 📊 Interested in **Data Analytics** and **Business Intelligence**
-- 🛠️ Working with **VS Code**, **GitHub**, and **MySQL**
-- 🎯 Building a foundation for real-world data and software projects
+## Technical Learning
 
-## 🧰 Skills & Tools
-
-| Area | Currently learning / using |
+| Area | Technologies and topics |
 | --- | --- |
-| Programming | Python |
-| Databases | SQL, MySQL |
-| Development | VS Code, Git, GitHub |
+| Programming | Python fundamentals |
+| Databases | SQL and MySQL fundamentals |
+| Tools | VS Code, Git, GitHub |
 | Interests | Data Analytics, Business Intelligence, Automation |
 
-## 📂 My Learning Projects
+## Current Focus
 
-### 🐍 Python Practice
+- Strengthening Python programming and problem-solving skills
+- Practicing SQL and database concepts
+- Learning to organize and document technical work
+- Preparing practical projects for a future portfolio
 
-A space for Python exercises, programming fundamentals, and beginner projects as I develop my skills.
+## Repositories
 
-🔗 [Explore Python Practice](https://github.com/irfie06/python-practice)
+My repositories are currently being set up. The [Python Practice](https://github.com/irfie06/python-practice) repository is a private learning space and does not yet contain published code projects.
 
-*Note: This repository is currently private, so its contents may not be visible to visitors.*
-
-## 🚀 What I'm Working Toward
-
-- Write clean, understandable Python programs
-- Practice SQL queries and database design
-- Build small data-analysis projects with useful insights
-- Grow a well-documented portfolio over time
+I will add documented work as projects are completed.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 👋
-
-*Curious mind. Consistent progress. Practical learning.*
+*Continuous learning, practical thinking, and steady improvement.*
 
 </div>
